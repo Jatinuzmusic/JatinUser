@@ -1,14 +1,14 @@
 {
     "name": "Daxx-Userbot",
-    "logo": "https://telegra.ph/file/d96f6c6858129c59842e9.jpg",
-    "description": "Daxx-Userbot is a powerful, advanced, multi-featured Telegram userbot.",
+    "logo": "https://telegra.ph/file/3fb9a8619d88238052399.jpg",
+    "description": "Jatin-Userbot is a powerful, advanced, multi-featured Telegram userbot.",
     "keywords": [
         "userbot",
         "musicbot",
         "videobot",
         "telegram"
     ],
-    "repository": "https://github.com/DAXXTEAM/DAXXUSERBOT",
+    "repository": "https://github.com/Jatinuzmusic/JatinUser",
     "stack": "container",
     "env": {
         "API_ID": {
